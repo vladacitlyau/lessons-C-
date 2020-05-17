@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Profile\Profile\bin\Debug\Profile.exe.config
+C:\Users\Пользователь\source\repos\Profile\Profile\bin\Debug\Profile.exe
+C:\Users\Пользователь\source\repos\Profile\Profile\bin\Debug\Profile.pdb
+C:\Users\Пользователь\source\repos\Profile\Profile\obj\Debug\Profile.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Profile\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Profile\Profile\obj\Debug\Profile.exe
+C:\Users\Пользователь\source\repos\Profile\Profile\obj\Debug\Profile.pdb
